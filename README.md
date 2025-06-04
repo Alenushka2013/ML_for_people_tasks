@@ -14,7 +14,7 @@
           
 *Аналіз ознак для побудови лінійної регресії*- [Feature_analysis](https://github.com/Alenushka2013/ML_for_people_tasks/blob/main/HW_2_1_Feature_analysis_for_linear_regression.ipynb)
           
-*Функції та похідні*
+*Функції та похідні*- [Functions_and_derivatives](https://github.com/Alenushka2013/ML_for_people_tasks/blob/main/HW_2_1_Functions_and_derivatives.ipynb)
 
 *Матриці і вектори (вступ до лін. алгебри)*
 
