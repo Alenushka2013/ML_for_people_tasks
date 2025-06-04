@@ -20,7 +20,7 @@
 
 *Побудова лінійної регресії за одною ознакою* - [Linear_regression_on_one_attribute](https://github.com/Alenushka2013/ML_for_people_tasks/blob/main/HW_2_1_Building_a_linear_regression_on_one_attribute.ipynb)
 
-*Лінійна регресія від багатьох змінних*
+*Лінійна регресія від багатьох змінних* - [Linear_regression_on_multiple_variables](https://github.com/Alenushka2013/ML_for_people_tasks/blob/main/HW_2_1_Linear_regression_on_multiple_variables.ipynb)
 
 Тема 2.2 Задача класифікації. Логістична регресія. Принцип роботи та методи оцінки якості
 
