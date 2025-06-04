@@ -16,7 +16,7 @@
           
 *Функції та похідні*- [Functions_and_derivatives](https://github.com/Alenushka2013/ML_for_people_tasks/blob/main/HW_2_1_Functions_and_derivatives.ipynb)
 
-*Матриці і вектори (вступ до лін. алгебри)*
+*Матриці і вектори (вступ до лін. алгебри)* - [Matrices_and_Vectors](https://github.com/Alenushka2013/ML_for_people_tasks/blob/main/HW_2_1_Matrices_and_Vectors_(Introduction_to_Linear_Algebra).ipynb)
 
 *Побудова лінійної регресії за одною ознакою*
 
