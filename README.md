@@ -18,8 +18,7 @@
 
 *Матриці і вектори (вступ до лін. алгебри)* - [Matrices_and_Vectors](https://github.com/Alenushka2013/ML_for_people_tasks/blob/main/HW_2_1_Matrices_and_Vectors_(Introduction_to_Linear_Algebra).ipynb)
 
-*Побудова лінійної регресії за одною ознакою* - [Lecture](https://github.com/Alenushka2013/ML_for_people_lectures/blob/main/Lecture_2_1_8_Mathematical_formulation_of_linear_regression.ipynb)        
-[Home work](https://github.com/Alenushka2013/ML_for_people_tasks/blob/main/HW_2_1_Building_a_linear_regression_on_one_attribute.ipynb)
+*Побудова лінійної регресії за одною ознакою* - [Lecture](https://github.com/Alenushka2013/ML_for_people_lectures/blob/main/Lecture_2_1_8_Mathematical_formulation_of_linear_regression.ipynb)          [Home work](https://github.com/Alenushka2013/ML_for_people_tasks/blob/main/HW_2_1_Building_a_linear_regression_on_one_attribute.ipynb)
 
 *Лінійна регресія від багатьох змінних* - [Linear_regression_on_multiple_variables](https://github.com/Alenushka2013/ML_for_people_tasks/blob/main/HW_2_1_Linear_regression_on_multiple_variables.ipynb)
 
