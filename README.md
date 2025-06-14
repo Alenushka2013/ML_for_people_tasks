@@ -28,7 +28,7 @@
 Тема 2.3 Дерева прийняття рішень
 
 
-## Переднавчання
+### Переднавчання
 
 3.1. Введення у Pandas та NumPy [Lecture](https://github.com/Alenushka2013/ML_for_people_lectures/blob/main/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%203.%20%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D0%B0%20%D0%B7%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D0%B8%D0%BC%D0%B8%20%D0%B4%D0%B0%D0%BD%D0%B8%D0%BC%D0%B8%3A%20Pandas%20%D1%82%D0%B0%20Numpy/Lecture%203.1-3.3%20Pandas%20and%20numpy.ipynb), [Homework](https://github.com/Alenushka2013/MLforPeople/blob/main/hw_3_1_%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%BD%D1%8F_%D1%83_Pandas_%D1%82%D0%B0_NumPy.ipynb), [Solution](https://github.com/Alenushka2013/ML_for_people_lectures/blob/main/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%203.%20%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D0%B0%20%D0%B7%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D0%B8%D0%BC%D0%B8%20%D0%B4%D0%B0%D0%BD%D0%B8%D0%BC%D0%B8%3A%20Pandas%20%D1%82%D0%B0%20Numpy/hw_3_1_%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%BD%D1%8F_%D1%83_Pandas_%D1%82%D0%B0_NumPy_Solution.ipynb)
 
@@ -41,9 +41,12 @@
 3.5 Функції GroubBy, Pivot і PivotTable [Lecture](https://github.com/Alenushka2013/ML_for_people_lectures/blob/main/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%203.%20%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D0%B0%20%D0%B7%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D0%B8%D0%BC%D0%B8%20%D0%B4%D0%B0%D0%BD%D0%B8%D0%BC%D0%B8%3A%20Pandas%20%D1%82%D0%B0%20Numpy/Lecture_3_5_Functions_groupby%2C_pivot_and_pivot_table.ipynb), [Homework](https://github.com/Alenushka2013/ML_for_people_lectures/blob/main/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%203.%20%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D0%B0%20%D0%B7%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D0%B8%D0%BC%D0%B8%20%D0%B4%D0%B0%D0%BD%D0%B8%D0%BC%D0%B8%3A%20Pandas%20%D1%82%D0%B0%20Numpy/hw_3_4_apply%2C_groupby%2C_pivot_table.ipynb), [Solution](https://github.com/Alenushka2013/ML_for_people_lectures/blob/main/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%203.%20%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D0%B0%20%D0%B7%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D0%B8%D0%BC%D0%B8%20%D0%B4%D0%B0%D0%BD%D0%B8%D0%BC%D0%B8:%20Pandas%20%D1%82%D0%B0%20Numpy/hw_3_4_apply,_groupby,_pivot_table_Solution.ipynb)
 
 
+### Machine Learning from 0 to Hero
 
+Модуль 0. Світ машинного навчання [Lecture](https://github.com/Alenushka2013/ML_for_people_lectures/blob/main/Machine%20Learning%20from%200%20to%20Hero/0_%D0%9F%D0%B5%D1%80%D1%88%D1%96_%D0%BA%D1%80%D0%BE%D0%BA%D0%B8_%D0%B2_Google_Colab.ipynb)
 
-
+Модуль 1. Задача прогнозування, дослідницький аналіз даних та лінійна регресія 
+[Lecture]
 
 
 
