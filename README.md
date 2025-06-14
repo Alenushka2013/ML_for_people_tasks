@@ -46,7 +46,11 @@
 Модуль 0. Світ машинного навчання [Lecture](https://github.com/Alenushka2013/ML_for_people_lectures/blob/main/Machine%20Learning%20from%200%20to%20Hero/0_%D0%9F%D0%B5%D1%80%D1%88%D1%96_%D0%BA%D1%80%D0%BE%D0%BA%D0%B8_%D0%B2_Google_Colab.ipynb)
 
 Модуль 1. Задача прогнозування, дослідницький аналіз даних та лінійна регресія 
-[Lecture]
+
+Дослідницький аналіз даних з Python (EDA) [Lecture + Homework](https://github.com/Alenushka2013/ML_for_people_tasks/blob/main/1_1_EDA.ipynb), [Solution](https://github.com/Alenushka2013/ML_for_people_lectures/blob/main/Machine%20Learning%20from%200%20to%20Hero/1_1_EDA_Solution.ipynb)
+
+Лінійна регресія багатьох змінних [Lecture + Homework](https://github.com/Alenushka2013/ML_for_people_tasks/blob/main/hw_%2B_lecture_1_2_Linear_regression.ipynb), [Solution](https://github.com/Alenushka2013/ML_for_people_lectures/blob/main/Machine%20Learning%20from%200%20to%20Hero/1_2_%D0%9B%D1%96%D0%BD%D1%96%D0%B8%CC%86%D0%BD%D0%B0_%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%96%D1%8F_Solution.ipynb)
+
 
 
 
