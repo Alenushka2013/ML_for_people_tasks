@@ -25,6 +25,8 @@
 
 Тема 2.2 Задача класифікації. Логістична регресія. Принцип роботи та методи оцінки якості
 
+*Задачі класифікації. Математичне формулювання логістичної регресії* [Home work](https://github.com/Alenushka2013/ML_for_people_tasks/blob/main/HW_2_2_1_Mathematical_formulation_of_logistic_regression.ipynb), [Solution](https://github.com/Alenushka2013/ML_for_people_lectures/blob/main/HW_2_2_%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B5_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%BB%D0%BE%D0%B3%D1%96%D1%81%D1%82%D0%B8%D1%87%D0%BD%D0%BE%D1%97_%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%96%D1%97_Solution.ipynb)
+
 Тема 2.3 Дерева прийняття рішень
 
 
