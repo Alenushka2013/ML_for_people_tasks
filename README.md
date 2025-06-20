@@ -29,7 +29,7 @@
 
 *Побудова логістичної регресії з Sklearn* - [Lecture](https://github.com/Alenushka2013/ML_for_people_lectures/blob/main/Lecture_2_2_2_%D0%9B%D0%BE%D0%B3%D1%96%D1%81%D1%82%D0%B8%D1%87%D0%BD%D0%B0_%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%96%D1%8F_%D0%B7_ScikitLearn_%D0%9F%D0%BE%D0%B2%D0%BD%D0%B0_ML_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0.ipynb),[Home work](https://github.com/Alenushka2013/ML_for_people_tasks/blob/main/HW_2_2_2_Logistic_regression_with_scikit_learn.ipynb), [Solution](https://github.com/Alenushka2013/ML_for_people_lectures/blob/main/HW_2_2_%D0%9B%D0%BE%D0%B3%D1%96%D1%81%D1%82%D0%B8%D1%87%D0%BD%D0%B0_%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%96%D1%8F_%D0%B7_scikit_learn_Solution.ipynb)
 
-*Моделювання поліноміальної регресії* - [Lecture](), [Home work](), [Solution]()
+*Моделювання поліноміальної регресії* - [Lecture](https://github.com/Alenushka2013/ML_for_people_lectures/blob/main/Lecture_2_2_15_Overfitting%2C_underfitting_Regularization_Polinomial_regression.ipynb), [Home work](), [Solution]()
 
 *Мультикласова та мультизначна класифікація* - [Lecture](), [Home work](), [Solution]()
 
